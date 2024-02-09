@@ -1,0 +1,53 @@
+<h1 class="pt-5 text-center underline decoration-green-600 decoration-2 text-5xl">Hayun Jung's Corner</h1>
+
+<br> </br>
+
+<p class="text-center pl-10 pr-10 text-md ">Hello, welcome to my corner. I'm a freshman in computer science at <a href="" class="underline decoration-dotted	decoration-blue-700"> umass amherst.</a> Scroll along this to get to know me. </p>
+
+  <div  class="grid grid-flow-col grid-rows-2 gap-2 px-2 pt-10 pb-10">
+  <img  class="blur-none hover:blur-sm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/1200px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg" width="200" height="333"></img>
+  <img class="hover:brightness-50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/1200px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg" width="200" height="333"> </img>
+  <img class="hover:hue-rotate-90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/1200px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg" width="200" height="333"> </img>
+  <img class="hover:invert" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/1200px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg" width="200" height="100"> </img>
+
+</div>
+
+
+<p class="text-center text-xl bg-lime-400 border-circular "> Button Styles:<p>
+
+
+<div class="text-center pt-5">
+  <button class="rounded border bg-green-400 px-2 py-2 text-xs hover:bg-green-500">H</button>
+
+  <button class="rounded border border-amber-100 bg-amber-100 px-2 py-2 text-xs drop-shadow-lg hover:border-amber-400 hover:bg-gradient-to-r hover:from-amber-400 hover:to-amber-700">e</button>
+
+  <button class="rounded border bg-sky-600 px-2 py-2 transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 text-sm text-white">ll</button>
+
+  <button class="rounded border bg-sky-400 px-2 py-2 hover:ring-2 hover:ring-offset-2 text-sm text-white">o
+  </button>
+  <button> 
+  <svg class="h-4 w-2 animate-bounce bg-yellow-500">
+  </svg>
+  <span class="relative flex h-2 w-2 ">
+    <span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-yellow-500 opacity-75"></span>
+    <span class="relative inline-flex h-2 w-2 rounded-full bg-yellow-500"></span>
+  </span>
+  </button>
+</div>
+
+
+<br class="space-y-5"></br>
+<h3 class="text-center text-2xl pb-2">Fun facts about me:</h3>
+<!-- <br class="space-y-2"></br> -->
+<div class="grid grid-flow-col grid-rows-4 gap-5 px-2 pb-10">
+  <div class="rounded border bg-yellow-400 px-2 py-2">01
+  </div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">02</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">03</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">04</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">05</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">06</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">07</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">08</div>
+  <div class="rounded border bg-yellow-400 px-2 py-2">09</div>
+</div>
